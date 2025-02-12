@@ -6,7 +6,7 @@
 <p>Grupo: Davi Gilberti, Luca Mendes, Lucas Ferrara, Shogo Miyazaki</p>
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width=30px height=30px align="middle" />
-<a href="https://youtu.be/Eqgt_JFzALo" target="_blank">Vídeo Explicativo de Demonstração</a>
+<a href="https://youtu.be/MeHqqjKuLCw" target="_blank">Vídeo Explicativo de Demonstração</a>
 </p>
 
 
